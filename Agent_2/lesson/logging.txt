@@ -1,0 +1,11 @@
+Conversation Log
+Human: hello, who are you?
+AI: I am a large language model, trained by Google.
+
+Human: my name is ahmed
+AI: It's nice to meet you, Ahmed! How can I help you today?
+
+Human: what is my name
+AI: Your name is Ahmed. You told me that earlier.
+
+End of Conversation
