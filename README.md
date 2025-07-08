@@ -11,6 +11,7 @@
 
 <h1 style="color:green">Tracking the life cycle of the state for Agent_4</h1>
 
+![graph](src/imgs//Agent_4_Graph.png)
 #### Step 0: Initialization
 
 *   **Node:** None (before graph execution starts).
